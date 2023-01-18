@@ -82,7 +82,6 @@ def task(csvString):
 
   return sum
 
-csvString = '1,2\n1,3\n3,4\n3,5'
-print(task(csvString))
+
 
 # Иван Левчук БПМ-19-4
